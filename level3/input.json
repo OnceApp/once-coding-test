@@ -1,96 +1,128 @@
-{
-  "users": [
-    {
-      "id": 164757,
-      "first_name": "David",
-      "gender": "m",
-      "age": 25,
-      "preferences": {
-        "age_min": 24,
-        "age_max": 27
-      }
+[
+  {
+    "id": 164757,
+    "first_name": "David",
+    "gender": "m",
+    "age": 25,
+    "preferences": {
+      "age_min": 24,
+      "age_max": 27
     },
-    {
-      "id": 187487,
-      "first_name": "Claire",
-      "gender": "w",
-      "age": 30,
-      "preferences": {
-        "age_min": 30,
-        "age_max": 34
-      }
-    },
-    {
-      "id": 135262,
-      "first_name": "Amy",
-      "gender": "w",
-      "age": 36,
-      "preferences": {
-        "age_min": 37,
-        "age_max": 40
-      }
-    },
-    {
-      "id": 277487,
-      "first_name": "Marie",
-      "gender": "w",
-      "age": 26,
-      "preferences": {
-        "age_min": 23,
-        "age_max": 28
-      }
-    },
-    {
-      "id": 298748,
-      "first_name": "Jean",
-      "gender": "m",
-      "age": 38,
-      "preferences": {
-        "age_min": 35,
-        "age_max": 39
-      }
-    },
-    {
-      "id": 180897,
-      "first_name": "Jonas",
-      "gender": "m",
-      "age": 32,
-      "preferences": {
-        "age_min": 29,
-        "age_max": 34
-      }
-    },
-    {
-      "id": 236736,
-      "first_name": "Julie",
-      "gender": "w",
-      "age": 23,
-      "preferences": {
-        "age_min": 21,
-        "age_max": 26
-      }
-    },
-    {
-      "id": 123786,
-      "first_name": "Pablo",
-      "gender": "m",
-      "age": 19,
-      "preferences": {
-        "age_min": 19,
-        "age_max": 22
-      }
-    },
-    {
-      "id": 186474,
-      "first_name": "Xavier",
-      "gender": "m",
-      "age": 22,
-      "preferences": {
-        "age_min": 21,
-        "age_max": 25
-      }
+    "location": {
+      "lat": 48.8269155,
+      "lon": 2.371304
     }
-  ],
-  "actions": [
-  ]
-}
+  },
+  {
+    "id": 187487,
+    "first_name": "Claire",
+    "gender": "w",
+    "age": 30,
+    "preferences": {
+      "age_min": 30,
+      "age_max": 34
+    },
+    "location": {
+      "lat": 48.866073,
+      "lon": 2.375336
+    }
+  },
+  {
+    "id": 135262,
+    "first_name": "Amy",
+    "gender": "w",
+    "age": 36,
+    "preferences": {
+      "age_min": 37,
+      "age_max": 40
+    },
+    "location": {
+      "lat": 48.8943129,
+      "lon": 2.383047
+    }
+  },
+  {
+    "id": 277487,
+    "first_name": "Marie",
+    "gender": "w",
+    "age": 26,
+    "preferences": {
+      "age_min": 23,
+      "age_max": 28
+    },
+    "location": {
+      "lat": 48.8959516,
+      "lon": 2.3265892
+    }
+  },
+  {
+    "id": 298748,
+    "first_name": "Jean",
+    "gender": "m",
+    "age": 38,
+    "preferences": {
+      "age_min": 35,
+      "age_max": 39
+    },
+    "location": {
+      "lat": 48.883275,
+      "lon": 2.300912
+    }
+  },
+  {
+    "id": 180897,
+    "first_name": "Jonas",
+    "gender": "m",
+    "age": 32,
+    "preferences": {
+      "age_min": 29,
+      "age_max": 34
+    },
+    "location": {
+      "lat": 48.858085,
+      "lon": 2.2561313
+    }
+  },
+  {
+    "id": 236736,
+    "first_name": "Julie",
+    "gender": "w",
+    "age": 23,
+    "preferences": {
+      "age_min": 21,
+      "age_max": 26
+    },
+    "location": {
+      "lat": 48.831037,
+      "lon": 2.2229179
+    }
+  },
+  {
+    "id": 123786,
+    "first_name": "Pablo",
+    "gender": "m",
+    "age": 19,
+    "preferences": {
+      "age_min": 19,
+      "age_max": 22
+    },
+    "location": {
+      "lat": 48.809745,
+      "lon": 2.2796173
+    }
+  },
+  {
+    "id": 186474,
+    "first_name": "Xavier",
+    "gender": "m",
+    "age": 22,
+    "preferences": {
+      "age_min": 21,
+      "age_max": 25
+    },
+    "location": {
+      "lat": 48.8529545,
+      "lon": 2.3404643
+    }
+  }
+]
