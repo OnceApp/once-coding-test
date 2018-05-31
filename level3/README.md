@@ -2,7 +2,7 @@
 
 We now want to suggest a place to meet for the two matched users based on their location.
 
-Given the list of places in `places.json`, compute a new value for each match item in the match results list, like this:
+Given the list of places in `places.json`, and the list of users in `input.json` (with the new location information),  compute a new value for each match item in the match results list, like this:
 
 ```
 {

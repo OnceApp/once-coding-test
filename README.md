@@ -9,3 +9,5 @@ What we're interesting to see:
  - Clean code
  - Good levels of abstraction when needed
  - Robust to errors (use exceptions, think about corner cases)
+
+For each level, please write as well in ANOTHER LANGUAGE of your choice (so, anything but Ruby) a black-box test giving inputs to the ruby program, and veryfing validity of the output (with given inputs and/or JSON inputs of your choice).
