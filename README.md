@@ -11,5 +11,3 @@ What we're interested to see:
  - Good levels of abstraction when needed
  - Robust to errors (use exceptions and errors, think about corner cases)
  - User oriented code (you have to make users happy)
-
-For each level, please write as well in ANOTHER LANGUAGE of your choice a black-box test giving inputs to the program, and veryfing validity of the output (with given inputs and/or JSON inputs of your choice).
